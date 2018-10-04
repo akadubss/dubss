@@ -1,0 +1,138 @@
+      @font-face {
+          font-family: 'ubuntuC';
+          src: url('..\font\ubuntu-font-family-0.83\Ubuntu-C.ttf') format('truetype');
+      }
+
+
+      body {
+          background-color: white;
+          font-family: "ubuntuC";
+      }
+
+      .hero {
+          padding: 3rem 1.5rem;
+          text-align: center;
+          background-image: url('../img/hero.png.jpg');
+          background-size: cover;
+          padding-top: 20vh;
+          padding-bottom: 45vh;
+
+      }
+
+
+      .navbar {}
+
+      .navbar-nav {
+          justify-content: center !important;
+      }
+
+      .nav-item {
+          padding-left: 2em;
+          padding-right: 2em;
+      }
+
+      .fixed-top.scrolled {
+          background-color: rgb(32, 42, 48);
+          !important;
+          transition: background-color 200ms linear;
+      }
+
+      #Intro1 {
+          height: 100vh;
+          background-image: url('..');
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+          max-width: 458px;
+      }
+
+      #Intro2 {
+          padding-top: 8.6vh;
+          max-width: 458px;
+
+      }
+
+      #dubss {
+          width: 150px;
+      }
+
+
+      .about {
+          background-color: rgb(32, 42, 48);
+          width: auto;
+          height: auto;
+          padding: 3rem;
+          padding-top: 10vh;
+          padding-bottom: 5vh;
+
+      }
+
+
+      /*Typeograpy*/
+
+.hero h1 {
+    font-size: 4rem;
+    color:white;
+}
+
+      .nav-link {
+          color: white !important;
+          font-family: "ubuntuC" !important;
+          font-size: 1.5rem;
+
+      }
+
+
+      #food-lead {
+          color: white;
+          font-family: 'Kodchasan-Regular';
+          font-size: 1em;
+      }
+
+      .about h1 {
+          color: white;
+          text-align: center;
+
+      }
+
+      .wtitle {
+          font-size
+      }
+
+      #menuContent h1,
+      p,
+      h5 {
+          color: white;
+      }
+
+
+      /*plx*/
+
+      #plx {
+          background-image: url(../img/71RMdkDQYdL._SL1500_.jpg);
+          background-size: cover;
+          background-position: center;
+          padding: 5em 0;
+          color: #FFF;
+          background-repeat: no-repeat;
+
+
+
+
+
+      }
+
+
+      /*Menu Content*/
+
+      #menuContent {
+          background-color: rgb(32, 42, 48);
+          width: auto;
+          height: auto;
+          padding: 10rem;
+          padding-top: 10vh;
+          padding-bottom: 5vh;
+      }
+
+
+      #sideContent {}
